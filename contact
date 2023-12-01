@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    
+</head>
+<body class="ok">
+    <div class="not">
+        <pre>
+         <h1>  Contact Details </h1>
+        <br>
+<h2> Mobile number : 9392781534 </h2>
+<br>
+<h2> Email id : rajendergoud692@gmail.com </h2>
+<br>
+<h2>Linkdin profile : <a href="www.linkedin.com/in/rajender-g-776a2722b" class="colo"> Linkdin profile link</h2></a>
+</pre>
+</div>
+
+<style>
+    .ok{
+        background-image: url("https://www.pdsvehicleinspections.com.au/wp-content/uploads/2015/09/contact_us_background.jpg");
+        background-size: cover;
+        text-align:center;
+    }
+    .not{
+        
+        color:white;
+    }
+    pre{
+        margin-top: 300px;
+    }
+    .colo{
+        color: white;
+    }
+</style>
+</body>
+</html>
